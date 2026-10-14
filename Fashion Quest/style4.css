@@ -1,0 +1,41 @@
+h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  
+   
+    
+}
+h1{
+    text-align: center;
+     font-family: 'Courier New', Courier, monospace;
+     border: dotted 10px;
+     border-color: rgb(244, 99, 123);
+}
+body{
+    background-color: rgb(185, 255, 250);
+}
+div{
+    background-color: rgb(140, 217, 255);
+    padding: 25px;
+    width: 800px;
+    margin: auto;
+
+}
+img{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     border: dotted 15px;
+     border-color: rgb(244, 99, 123);
+}
+a{
+    
+    text-decoration: none;
+    font-size: 20pt;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+    color: rgb(91, 11, 161);
+}
+a:hover{
+    background-color: rgb(255, 168, 233);
+}

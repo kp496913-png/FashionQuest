@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+     text-decoration: dotted 5px;
+}
+body{
+    background-color: rgb(142, 202, 51);
+}
+div{
+    padding: 25px;
+    width: 400px;
+    margin: auto;
+    background-color: beige;
+    border: dotted 10px;
+    border-color: palevioletred;
+}
+img{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     border: dotted 15px;
+     border-color: palevioletred;
+}
+a{
+    text-decoration: none;
+    font-size: 15pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 5px;
+}
+a:hover{
+    background-color: aquamarine;
+}

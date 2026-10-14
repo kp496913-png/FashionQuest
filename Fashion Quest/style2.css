@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border: dotted 5px;
+    
+}
+h2{
+    color: rgb(251, 255, 3);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+body{
+ background-color: rgb(174, 176, 6);  
+}
+div{
+    background-color: rgb(66, 128, 0);
+    padding: 25px;
+    width: 800px;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+    font-size: 20pt;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+}
+a:hover{
+    background-color: rgb(51, 51, 251);
+}

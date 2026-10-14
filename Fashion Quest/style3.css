@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    border: dotted 5px;
+}
+h2{
+    text-align: center;
+    color: rgb(255, 181, 255);
+}
+body{
+    background-color:plum ;
+}
+div{
+    background-color: #d87093;
+    padding: 25px;
+    width: 800px;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    font-size: 20pt;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+}
+a:hover{
+   background-color: aquamarine;
+}

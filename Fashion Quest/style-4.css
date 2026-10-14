@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: rgb(161, 42, 161);
+}
+div{
+    background-color: rgb(255, 255, 117);
+     padding: 25px;
+    width: 600px;
+    margin: auto;
+    border: dotted 15px;
+     border-color: plum;
+}
+img{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     border: dotted 15px;
+     border-color: plum;
+}
+a{
+    text-decoration: none;
+    font-size: 15pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 5px;
+}
+a:hover{
+   background-color: aquamarine;
+}
